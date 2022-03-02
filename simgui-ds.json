@@ -26,9 +26,9 @@
       "buttonCount": 4,
       "buttonKeys": [
         90,
-        -1,
+        86,
         67,
-        86
+        -1
       ],
       "povConfig": [
         {
